@@ -2,6 +2,8 @@
 
 Sociobuzz is a responsive social media website with theme customization built using HTML, CSS, and JavaScript. It incorporates modern CSS features such as CSS variables, CSS grid, and CSS flexbox to create an interactive and visually appealing user interface.
 
+**Deployed Website:** [https://sociobuzz.netlify.app/](https://sociobuzz.netlify.app/)
+
 ## Features
 
 - **Theme Customization:** Sociobuzz offers users the ability to customize the website's theme. Users can change the primary and background themes, allowing for a personalized browsing experience.
