@@ -23,12 +23,13 @@ Sociobuzz is a responsive social media website with theme customization built us
 - JavaScript
 
 ## How to Use
+To use Sociobuzz, simply navigate to the deployed URL provided in the start, and then on the side menu bar choose a theme and customize SocioBuzz.
 
-To use Sociobuzz, simply clone this repository to your local machine and open the `index.html` file in your web browser.
+### Contributions to Sociobuzz are welcome!
+
+To contribute to Sociobuzz, simply clone this repository to your local machine and open the `index.html` file in your web browser.
 
 ```bash
 git clone https://github.com/ananya-gta/sociobuzz.git
 cd sociobuzz
 ```
-
-#### Contributions to Sociobuzz are welcome!
