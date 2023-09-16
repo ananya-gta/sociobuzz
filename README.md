@@ -27,7 +27,7 @@ To use Sociobuzz, simply navigate to the deployed URL provided in the start, and
 
 ### Contributions to Sociobuzz are welcome!
 
-To contribute to Sociobuzz, simply clone this repository to your local machine and open the `index.html` file in your web browser.
+To contribute to Sociobuzz, simply clone this repository to your local machine and clone the repository to your local machine.
 
 ```bash
 git clone https://github.com/ananya-gta/sociobuzz.git
