@@ -16,7 +16,7 @@ Sociobuzz is a responsive social media website with theme customization built us
 
 - **Font Size Customization:** Users have the option to customize font sizes to suit their preferences, ensuring readability and comfort.
 
-## Technologies Used
+## TechStack Used 
 
 - HTML
 - CSS (including CSS variables, grid, and flexbox)
